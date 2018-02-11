@@ -1,0 +1,5 @@
+AuthName "Restricted"
+AuthType Basic
+AuthUserFile /etc/httpd/passwords/macip
+AuthGroupFile /dev/null
+Require valid-user

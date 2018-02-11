@@ -1,0 +1,8 @@
+13.09.2009
+
+Make it easy for someone to manage the clients.
+Should not introduce wrong MAC or IP. Many regexp.
+-- Update, should NOT touch the IP. (IP's are added by the admin) --
+
+Rights to deactivate???
+NO Delete
